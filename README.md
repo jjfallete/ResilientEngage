@@ -1,7 +1,6 @@
 # ResilientEngage
-IBM Resilient Engage links and resources.
+IBM Resilient Engage links and resources for the presentation, "Building Automation and Response into your Resilient SOAR Environment"
 
-Presentation: "Building Automation and Response into your Resilient SOAR Environment"
 </br></br></br>
 
 [My IBM Resilient Engage 2019 Slides](https://docs.google.com/presentation/d/pending_link)
