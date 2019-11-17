@@ -3,7 +3,7 @@ IBM Resilient Engage links and resources for the presentation, "Building Automat
 
 </br>
 
-[My IBM Resilient Engage 2019 Slides](https://docs.google.com/presentation/d/pending_link)
+[My IBM Resilient Engage 2019 Slides](https://drive.google.com/file/d/1HD4PiwN0w6NG4uKXlJ6MFBVEnuE6a5fC/view)
 
 [My Resilient SOAR Automation Scripts and Functions on GitHub](https://github.com/jjfallete/resilient/tree/master/)
 
